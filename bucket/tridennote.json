@@ -1,16 +1,16 @@
 {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "description": "Notes, next level, in your terminal",
     "homepage": "https://github.com/hrithiqball/tridennote-tui",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hrithiqball/tridennote-tui/releases/download/v1.1.1/tridennote_windows_amd64.zip",
-            "hash": "ebf9ad7302b212a4bb11e893ef840baf7699ad331072c3cd8c02cf52ebdcfceb"
+            "url": "https://github.com/hrithiqball/tridennote-tui/releases/download/v1.2.0/tridennote_windows_amd64.zip",
+            "hash": "05053b5efba710c12fa9c209367dd9ff69c87c3bdce85a5b7dcb6890d7fabf15"
         },
         "arm64": {
-            "url": "https://github.com/hrithiqball/tridennote-tui/releases/download/v1.1.1/tridennote_windows_arm64.zip",
-            "hash": "8e61049281920a28b87ac597d730c68f34cf77b54907396c340415bae7870650"
+            "url": "https://github.com/hrithiqball/tridennote-tui/releases/download/v1.2.0/tridennote_windows_arm64.zip",
+            "hash": "52ce40b50b118daab96d387e03d3c4d0c1e60a589d6b8b6346307f6e8171afbc"
         }
     },
     "bin": "tridennote.exe",
